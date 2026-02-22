@@ -1,4 +1,4 @@
-# DSA Problem Solving – NeetCode Blind 75
+# DSA Problem Solving
 
 Tracking my daily DSA practice.
 
