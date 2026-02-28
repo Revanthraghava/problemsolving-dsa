@@ -12,10 +12,6 @@ Tracking my daily DSA practice.
   Pattern: HashSet for duplicate detection  
   Time: O(n) | Space: O(n)
 
----
-
-## Next
-
-- Two Sum
-
-More coming...
+- Valid Anagram  
+  Pattern: Fixed-size frequency array (26 lowercase letters)  
+  Time: O(n) | Space: O(1)
