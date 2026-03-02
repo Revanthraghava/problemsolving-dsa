@@ -15,3 +15,7 @@ Tracking my daily DSA practice.
 - Valid Anagram  
   Pattern: Fixed-size frequency array (26 lowercase letters)  
   Time: O(n) | Space: O(1)
+
+- Two Sum  
+  Pattern: HashMap for complement lookup  
+  Time: O(n) | Space: O(n)
