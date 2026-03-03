@@ -19,3 +19,7 @@ Tracking my daily DSA practice.
 - Two Sum  
   Pattern: HashMap for complement lookup  
   Time: O(n) | Space: O(n)
+
+- Group Anagrams  
+  Pattern: HashMap grouping by frequency signature  
+  Time: O(n * k) | Space: O(n)
