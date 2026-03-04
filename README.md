@@ -23,3 +23,7 @@ Tracking my daily DSA practice.
 - Group Anagrams  
   Pattern: HashMap grouping by frequency signature  
   Time: O(n * k) | Space: O(n)
+
+- Top K Frequent Elements
+  Pattern: HashMap + Bucket Sort
+  Time: O(n) | Space: O(n)
